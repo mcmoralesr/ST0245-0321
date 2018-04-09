@@ -1,0 +1,59 @@
+Project documentation
+<---- javadoc command: ---->
+/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-sourcepath
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3
+-source
+1.8
+-classpath
+/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/mariacamilamoralesrios/Desktop/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3
+-d
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Lab3
+-windowtitle
+Lab3
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+http://download.oracle.com/javase/8/docs/api/
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java
+<---- end of javadoc command ---->
+Loading source file /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/Laboratorio_3.html...
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:97: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:97: warning - @retorna is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:165: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:165: warning - @retorna is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:181: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:32: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:32: warning - @retorna is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:64: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:64: warning - @retorna is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:157: warning - @retorna is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:50: warning - @recibe is an unknown tag.
+/Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/Laboratorio_3.java:50: warning - @retorna is an unknown tag.
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/Node.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/package-frame.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/package-summary.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/package-tree.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/constant-values.html...
+Building index for all the packages and classes...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/overview-tree.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/index-all.html...
+Building index for all classes...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/allclasses-frame.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/allclasses-noframe.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/index.html...
+Generating /Users/mariacamilamoralesrios/Library/Mobile Documents/com~apple~CloudDocs/Lab3/doc/help-doc.html...
+12 warnings
